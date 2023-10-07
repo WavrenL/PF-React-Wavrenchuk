@@ -1,5 +1,3 @@
-git## Acerca del proyecto
-
 Hola coders!
 
 Este proyecto final se trata de una aplicacion de venta de articulos relacionados al mundo motor de la Formula 1.
@@ -15,13 +13,13 @@ El diseño / maquetacion de la misma son propios
 
 Esta es una lista de las tecnologias que utilize para realizar el proyecto:
 
-* [![React][React.js]][React-url]
+
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-* ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
@@ -52,7 +50,7 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
    ```
 2. Navegar a la ruta del proyecto
     ```sh
-   cd swoosh-ecommerce
+   cd f1store
    ```
 3. Ubicado en la ruta del proyecto
    ```sh
